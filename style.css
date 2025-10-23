@@ -1,0 +1,30 @@
+.dog-font {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 5em;
+  color: white;
+}
+
+.favrit-font {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3em;
+  color: white;
+  padding-top: 2rem;
+}
+
+.ti-le {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2em;
+}
+
+.dis {
+    font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4em;
+}
